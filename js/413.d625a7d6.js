@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweather"]=self["webpackChunkweather"]||[]).push([[413],{413:function(e,n,c){c.r(n),c.d(n,{default:function(){return b}});var t=c(252);const a=e=>((0,t.dD)("data-v-b464bcce"),e=e(),(0,t.Cn)(),e),r=a((()=>(0,t._)("h1",{class:"center"},"404",-1))),s=a((()=>(0,t._)("p",{class:"center"},"нет такой страницы",-1)));function u(e,n,c,a,u,d){return(0,t.wg)(),(0,t.iD)(t.HY,null,[r,s],64)}var d={name:"NotFound"},o=c(744);const l=(0,o.Z)(d,[["render",u],["__scopeId","data-v-b464bcce"]]);var b=l}}]);
+//# sourceMappingURL=413.d625a7d6.js.map
